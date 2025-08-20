@@ -52,6 +52,5 @@
 
 - Open to collaborating on startups  
 - DM for ideas to create solutions, or gaming sessions!
-- [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](www.linkedin.com/in/sergio-santamaria-2b3436280)
 
 ---

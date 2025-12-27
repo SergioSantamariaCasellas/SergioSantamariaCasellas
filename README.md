@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Sergio Santamaria 
 🎓 **Software Engineering Student** at EPITECH
 
-💼 Currently working as a Software and Data intern at the World Ocean Council
+💼 I have work experience as a Software and Data intern at the World Ocean Council and Front-End developer at Sanquets.S.A
 
 🌍 Based in Barcelona,Spain | Spoken Languages: Spanish, English, Catalan, Italian, French
 

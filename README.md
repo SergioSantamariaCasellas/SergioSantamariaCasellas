@@ -13,8 +13,8 @@
 
 ## 💻 About Me
 
-- **I am 19 years old**, I am dedicated to *code* and eager to *learn and build*.
-- I am proficient in **C, Python, JavaScript, HTML/CSS, SQL, Bash**.
+- **I am 20 years old**, I am dedicated to *code* and eager to *learn and build*.
+- I am proficient in **C, Python, JavaScript, HTML/CSS, SQL, Bash, Laravel, C++, PHP**.
 - Experienced with web development, system programming, and database management.
 - Active interests: AI, Cybersecurity, Financial Automation.
 - Always learning and applying my knowledge to provide solutions to real time problems.
